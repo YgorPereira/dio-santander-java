@@ -20,7 +20,7 @@ public class SmartTv {
     }
 
     public void descerCanal() {
-        canal --;
+        canal--;
     }
 
     public void aumentarVolume() {
