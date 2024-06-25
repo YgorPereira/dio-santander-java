@@ -1,5 +1,5 @@
 
-# Desafios de Python do Curso em Video / Python Challenges from Curso em Video
+# Dio Santander Java 
 
 ## Descrição / Description
 Este repositório foi criado para mostrar meu progresso durante o bootcamp focado em desenvolvimento backend com a linguagem Java promovido pela DIO em parceria com o Santander. Aqui você encontrará demonstrações práticas e projetos desenvolvidos ao longo das aulas.
